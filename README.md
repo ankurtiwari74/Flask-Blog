@@ -1,0 +1,2 @@
+# Flask-Blog
+This is my first technical write up for which I have chosen a very good framework of Python which is Flask. It is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. I found it very interesting and exactly what I was looking for. This is purely based out of my learning and a few references from YouTube and GitHub, which I feel would be helpful for anyone to begin with.
